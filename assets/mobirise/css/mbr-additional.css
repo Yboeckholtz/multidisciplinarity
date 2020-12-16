@@ -7929,3 +7929,9 @@ a {
 .item-wrapper:hover img{
   transform: scale(1.2);
 }
+
+.text-black:hover {
+  text-decoration: underline;
+}
+
+
