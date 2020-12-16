@@ -7930,7 +7930,11 @@ a {
   transform: scale(1.2);
 }
 
-.text-black:hover {
+/*.text-black:hover {*/
+/*  text-decoration: underline;*/
+/*}*/
+
+.gallery-image:hover{
   text-decoration: underline;
 }
 
